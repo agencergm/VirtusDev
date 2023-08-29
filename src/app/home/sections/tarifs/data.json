@@ -3,19 +3,22 @@
     "id": 1,
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
-    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    "titre": "Offre n°1",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur"
   },
 
   {
     "id": 2,
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
-    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    "titre": "Offre n°2",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur"
   },
   {
     "id": 1,
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
-    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit."
+    "titre": "Offre n°3",
+    "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur"
   }
 ]
