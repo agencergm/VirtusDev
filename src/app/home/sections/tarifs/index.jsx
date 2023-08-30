@@ -40,6 +40,9 @@ const Tarifs = () => {
           );
         })}
       </div>
+      <div>
+        
+      </div>
     </section>
   );
 };

@@ -7,7 +7,8 @@
     "titre": "Offre n°1",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur",
     "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
-    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
+    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description4": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
   },
 
   {
@@ -18,7 +19,8 @@
     "titre": "Offre n°2",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur",
     "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
-    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
+    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description4": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
   },
   {
     "id": 3,
@@ -28,6 +30,7 @@
     "titre": "Offre n°3",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur",
     "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
-    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
+    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description4": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
   }
 ]
