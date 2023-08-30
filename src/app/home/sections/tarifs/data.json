@@ -15,10 +15,12 @@
     "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur"
   },
   {
-    "id": 1,
+    "id": 3,
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
     "titre": "Offre n°3",
     "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur"
   }
+  
+  
 ]

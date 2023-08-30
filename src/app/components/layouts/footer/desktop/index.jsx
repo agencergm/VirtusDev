@@ -5,7 +5,7 @@ import { BsTwitter } from "react-icons/Bs";
 
 const FooterDesktop = () => {
   return (
-    <footer className="hidden">
+    <footer className="">
       <hr className="lg:text-black" />
       <div className=" lg:bg-white">
         <div className=" lg:grid lg:grid-cols-3 lg:divide-x lg:border-black lg:justify-center lg:text-center lg:py-4 lg:px-4">

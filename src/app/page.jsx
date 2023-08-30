@@ -5,8 +5,8 @@ const HomePage = () => {
  
   return (
     <>
-<Tarifs/>
-<Footer/>
+{/* <Tarifs/>
+<Footer/> */}
     </>
 
   );
