@@ -6,7 +6,7 @@ import { BiSolidContact } from "react-icons/bi";
 
 const NavbarMobile = () => {
   return (
-    <header className="w-full h-24 flex justify-center items-center fixed -bottom-0 z-50">
+    <header className="w-full h-24 flex justify-center items-center fixed -bottom-0 z-50 lg:hidden">
       <div className="h-16 w-11/12 flex flex-row justify-around items-center contain">
         <div className="text-blue4">
           <BsFillBuildingFill size={30} />
