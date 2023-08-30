@@ -1,4 +1,4 @@
-import Services from "./section/services";
+import Services from "./sections/services";
 
 const Main = () => {
   return (
