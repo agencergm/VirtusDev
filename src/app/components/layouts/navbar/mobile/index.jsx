@@ -17,7 +17,7 @@ const NavbarMobile = () => {
         <div>
           <Image
             className=" center"
-            src={"/images/VirtusDev-Bleu.png"}
+            src={"/images/VirtusDev-Blanc.png"}
             width={75}
             height={75}
             alt="logo"
