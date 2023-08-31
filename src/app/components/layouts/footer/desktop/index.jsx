@@ -5,10 +5,10 @@ import { BsTwitter } from "react-icons/Bs";
 
 const FooterDesktop = () => {
   return (
-    <footer className="">
-      <hr className="lg:text-black" />
+    <footer className="footer" >
+      <hr className="border-black" />
       <div className=" lg:bg-white">
-        <div className=" lg:grid lg:grid-cols-3 lg:divide-x lg:border-black lg:justify-center lg:text-center lg:py-4 lg:px-4">
+        <div className=" lg:grid lg:grid-cols-3 lg:divide-x lg:divide-black lg:border-black lg:justify-center lg:text-center lg:py-4 lg:px-4">
           <div className=" lg:flex lg:items-center lg:justify-center lg:align-middle">
             <Image
               src="/Images/VirtusDev-bleu.png"
@@ -17,7 +17,7 @@ const FooterDesktop = () => {
               alt="virtusDev"
             />
           </div>
-          <div className="lg:text-xl lg:text-black lg:text-center lg:flex lg:flex-col lg:items-center lg:justify-center">
+          <div className="lg:text-xl lg:text-black lg:text-left lg:flex lg:flex-col lg:items-center lg:justify-center">
             <ul>
               <li>Acceuil</li>
               <li className="lg:py-1">Entreprise</li>
@@ -47,8 +47,8 @@ const FooterDesktop = () => {
             </div>
           </div>
         </div>
-        <hr className="lg:mx-4" />
-        <div className="lg:text-sm lg:text-black  lg:divide-x lg:text-center lg:flex lg:items-center lg:justify-center lg:py-4">
+        <hr className="lg:mx-4 border-black" />
+        <div className="lg:text-sm lg:text-black  lg:divide-x lg:divide-black lg:text-center lg:flex lg:items-center lg:justify-center lg:py-4">
           <p className="lg:pr-2"> ©VirtusDev </p>
           <p className="lg:pl-2"> 2023 - {new Date().getFullYear()}</p>
         </div>

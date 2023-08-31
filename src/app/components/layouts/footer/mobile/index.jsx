@@ -3,9 +3,9 @@ import Image from "next/image";
 const FooterMobile = () => {
   return (
     <footer className=" lg:hidden 2xl:hidden">
-      <hr className="text-black" />
+      <hr className="border-black" />
       <div className=" bg-white">
-        <div className=" grid grid-cols-2 divide-x border-black justify-center text-center py-4 px-4">
+        <div className=" grid grid-cols-2 divide-x divide-black justify-center text-center py-4 px-4">
           <div className=" flex items-center justify-center align-middle">
             <Image
               className="rounded-full"
@@ -21,8 +21,8 @@ const FooterMobile = () => {
             <p>Politique de confidentialité</p>
           </div>
         </div>
-        <hr className="  mx-4"/>
-        <div className="text-xs text-black  divide-x text-center flex items-center justify-center py-4">
+        <hr className=" border-black mx-4"/>
+        <div className="text-xs text-black  divide-x divide-black text-center flex items-center justify-center py-4">
             <p className="pr-2"> ©VirtusDev </p>
             <p  className="pl-2"> 2023-2023 </p>
         </div>
