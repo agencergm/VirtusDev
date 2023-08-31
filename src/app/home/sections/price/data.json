@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "className":"contain",
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
     "titre": "Offre n°1",
@@ -9,6 +10,7 @@
 
   {
     "id": 2,
+    "className":"bg-[url('/images/sky.jpeg')]",
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
     "titre": "Offre n°2",
@@ -16,6 +18,7 @@
   },
   {
     "id": 3,
+    "className":"bg-[url('/images/ice.webp')]",
     "image": "/images/VirtusDev-Bleu.png",
     "alt" :"Logo-VirtusDev",
     "titre": "Offre n°3",

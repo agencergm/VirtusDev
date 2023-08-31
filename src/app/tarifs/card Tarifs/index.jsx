@@ -1,21 +1,10 @@
 import Image from "next/image";
 import data from "./data.json";
 
-const Crampter = () => {
+const Offre = () => {
   return (
     <section>
-      <div className="my-8">
-        <h1 className="text-4xl text-center font-extrabold">Nos tarifs</h1>
-      </div>
-      <div className=" text-left lg:text-center mx-12 lg:mx-28">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis
-          doloremque qui quas non dolor iusto odit sit animi aut commodi sint
-          inventore nostrum illo molestias officiis modi distinctio, officia
-          inLorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis
-          doloremque qui quas non dolor iusto odit ?
-        </p>
-      </div>
+     
       <div>
         {data.map((tarifs) => {
           return (
@@ -49,26 +38,8 @@ const Crampter = () => {
           );
         })}
       </div>
-      <div>
-        <h1 className=" font-extrabold text-center lg:text-3xl">
-          {" "}
-          Pour plus d&apos;explications
-        </h1>
-        <p className=" mx-4 my-2 text-center lg:text-xl">
-          vous pouver nous contacter pour vos projets
-        </p>
-        <div className="flex items-center justify-center mb-6 lg:mb-12">
-          <button
-            className="contain  px-2 py-2 my-2 lg:px-8 border-[1px] border-black hover:transition hover:ease-out hover:duration-700  hover:bg-white active:bg-slate-500"
-            onClick={""}
-          >
-            <a href="http://localhost:3000/tarifs">
-              <p className=" font-bold">CONTACT</p>
-            </a>
-          </button>
-        </div>
-      </div>
+      
     </section>
   );
 };
-export default Crampter;
+export default Offre;

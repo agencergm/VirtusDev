@@ -1,14 +1,12 @@
-import Tarifs from "./home/sections/tarifs";
+import Home from "./home/page";
 import Footer from "./components/layouts/footer";
 
 const HomePage = () => {
- 
   return (
     <>
-{/* <Tarifs/>
-<Footer/> */}
+      <Home/>
+<Footer/> 
     </>
-
   );
 };
 

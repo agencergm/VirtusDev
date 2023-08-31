@@ -1,9 +1,10 @@
-import Tarifs from "./sections/tarifs";
+import Pricepage from "./sections/price";
+
 
 const Home = () => {
   return (
     <>
-      <Tarifs />
+      <Pricepage />
     </>
   );
 };
