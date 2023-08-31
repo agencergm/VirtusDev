@@ -4,7 +4,7 @@ import React from "react";
 const Entreprise = () => {
   return (
     <section className="w-full my-4 py-2 flex justify-center">
-      <div>
+      <div className="lg:grid lg:grid-cols-2">
         <div className="my-4 flex justify-center">
           <img
             src="../images/VirtusDev-Bleu.png"
@@ -13,7 +13,7 @@ const Entreprise = () => {
             alt="logovirtusdevblanc"
           />
         </div>
-        <div className="my-4 mx-4 item-center">
+        <div className="my-4 mx-4 item-center lg:pr-72">
           <h2 className="flex justify-center my-2">
             Virtus<span className="text-bluedark">Dev</span>
           </h2>
