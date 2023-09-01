@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { MdEmail } from "react-icons/md";
 import { AiFillInstagram, AiFillPhone } from "react-icons/ai";
-import { BsTwitter } from "react-icons/Bs";
+import { BsTwitter } from "react-icons/bs";
 
 const FooterDesktop = () => {
   return (
