@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .contain {
     background: rgba( 48, 159, 226, 0.5 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -6,3 +7,25 @@
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
     }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contain {
+  background: rgba(48, 159, 226, 0.5);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.contain2 {
+  background: rgba(36, 111, 198, 0.65);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+>>>>>>> 4966433faa404f42bf967fb72da834f2faf197bd

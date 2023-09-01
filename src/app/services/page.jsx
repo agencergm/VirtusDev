@@ -6,6 +6,7 @@ import Image from "next/image";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import Footer from "../components/layouts/footer";
 
 const Services = () => {
   useEffect(() => {
@@ -192,7 +193,7 @@ const Services = () => {
               </div>
               <div
                 data-aos="fade-left"
-                className="bg-[url('/images/photo7.jpg')] bg-no-repeat bg-cover w-[290px] h-[350px] md:w-[600] md:h-[200px] lg:w-[600] lg:h-[400px] shadow-xl"
+                className=" -z-10 bg-[url('/images/photo7.jpg')] bg-no-repeat bg-cover w-[290px] h-[350px] md:w-[600] md:h-[200px] lg:w-[600] lg:h-[400px] shadow-xl"
               ></div>
             </div>
             <div className="w-full h-full pt-10">
@@ -247,30 +248,32 @@ const Services = () => {
               minus error nam dolor.
             </p>
             <div className="flex flex-col items-center md:flex-row md:justify-around w-full md:items-center md:basis-1/4">
-              <Image
-                className="contain6"
-                src="/images/Amazon-Logo.png"
-                width={150}
-                height={70}
-              />
-              <Image
-                className="contain2"
-                src="/images/Amazon-Logo.png"
-                width={150}
-                height={70}
-              />
-              <Image
-                className="contain3"
-                src="/images/Amazon-Logo.png"
-                width={150}
-                height={70}
-              />
-              <Image
-                className="contain4"
-                src="/images/Amazon-Logo.png"
-                width={150}
-                height={70}
-              />
+              <div>
+                <Image
+                  className="contain6"
+                  src="/images/Amazon-Logo.png"
+                  width={150}
+                  height={70}
+                />
+              </div>
+
+              <div className="my-10">
+                <Image
+                  className="contain2"
+                  src="/images/Amazon-Logo.png"
+                  width={150}
+                  height={70}
+                />
+              </div>
+
+              <div className="pb-5">
+                <Image
+                  className="contain3"
+                  src="/images/Amazon-Logo.png"
+                  width={150}
+                  height={70}
+                />
+              </div>
             </div>
           </div>
         </div>
@@ -300,6 +303,7 @@ const Services = () => {
           </div>
         </div>
       </section>
+      <Footer/>
     </>
   );
 };

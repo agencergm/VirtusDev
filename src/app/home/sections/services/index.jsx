@@ -1,6 +1,6 @@
-import { BsFillBuildingFill } from "react-icons/bs";
 import Image from "next/image";
 import Link from "next/link";
+import { BsFillBuildingFill } from "react-icons/bs";
 
 const Services = () => {
   return (
@@ -76,10 +76,7 @@ const Services = () => {
           </div>
         </div>
         <div data-aos="zoom-in" className="w-full flex justify-center py-10">
-          <div
-
-            className="border border-bluedark h-16 w-32 contain flex items-center text-center contain-v1"
-          >
+          <div className="border border-bluedark h-16 w-32 contain flex items-center text-center contain-v1">
             <Link
               className="text-xs text-blue4 hover:text-bluedark "
               href="/services"

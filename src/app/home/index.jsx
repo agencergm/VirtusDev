@@ -5,6 +5,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import Introduction from "./sections/introduction";
 import ContactSection from "./sections/contact";
+import Pricepage from "./sections/price";
 
 const Main = () => {
   useEffect(() => {
@@ -15,8 +16,8 @@ const Main = () => {
     <>
       <Introduction />
       <Services />
-      <ContactSection/>
-
+      <Pricepage />
+      <ContactSection />
     </>
   );
 };

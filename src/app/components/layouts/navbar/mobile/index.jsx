@@ -10,7 +10,7 @@ const NavbarMobile = () => {
     <header className="w-full h-24 flex justify-center items-center fixed -bottom-0 z-50 lg:hidden">
       <div className="h-16 w-11/12 flex flex-row justify-around items-center contain">
         <div className="text-blue4 contain-v2">
-          <Link className="" href="#">
+          <Link className="" href="/entreprise">
             <BsFillBuildingFill size={30} />
           </Link>
         </div>
@@ -30,7 +30,7 @@ const NavbarMobile = () => {
             />
           </div>
         </Link>
-        <Link className="contain-v2" href="#">
+        <Link className="contain-v2" href="/tarifs">
           <div className=" text-blue4">
             <FaMoneyCheckAlt size={30} />
           </div>
