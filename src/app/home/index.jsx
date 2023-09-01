@@ -1,8 +1,10 @@
-"use client"
+"use client";
 import Services from "./sections/services";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import Introduction from "./sections/introduction";
+import ContactSection from "./sections/contact";
 
 const Main = () => {
   useEffect(() => {
@@ -11,7 +13,10 @@ const Main = () => {
   }, []);
   return (
     <>
+      <Introduction />
       <Services />
+      <ContactSection/>
+
     </>
   );
 };

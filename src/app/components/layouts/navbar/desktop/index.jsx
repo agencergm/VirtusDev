@@ -40,7 +40,7 @@ const NavbarDesktop = () => {
               <h1 className="uppercase">Tarifs</h1>
             </div>
           </Link>
-          <Link className="contain-v2" href="#">
+          <Link className="contain-v2" href="/contacts">
             <div className=" text-blue4 flex flex-col items-center contain-v1 p-2">
               <BiSolidContact size={30} />
               <h1 className="uppercase">Contact</h1>

@@ -35,7 +35,7 @@ const NavbarMobile = () => {
             <FaMoneyCheckAlt size={30} />
           </div>
         </Link>
-        <Link className="contain-v2" href="#">
+        <Link className="contain-v2" href="/contacts">
           <div className=" text-blue4">
             <BiSolidContact size={30} />
           </div>

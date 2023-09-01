@@ -19,7 +19,7 @@ const Services = () => {
         <div className="bg-[url('/images/photo1.jpg')] bg-no-repeat bg-cover bg-right w-screen h-screen ">
           <h1
             data-aos="zoom-out"
-            className="text-center text-sm py-3 fixed contain2 px-5 z-20 md:w-full md:h-20 md:flex md:justify-center md:items-center lg:w-full lg:h-40 lg:mt-24 lg:px-40 lg:flex lg:justify-center lg:items-center lg:absolute lg:text-4xl"
+            className="text-center text-lg py-20 bg-op-bluedark text-blue1 px-5 z-20 md:w-full md:h-20 md:flex md:justify-center md:items-center lg:w-full lg:h-40 lg:mt-24 lg:px-40 lg:flex lg:justify-center lg:items-center lg:absolute lg:text-4xl"
           >
             Concevez votre site web avec notre équipes de developpeurs confirmés
           </h1>
@@ -190,11 +190,17 @@ const Services = () => {
                   ullam aliquid repudiandae vero. Totam, ratione vitae?
                 </p>
               </div>
-              <div data-aos="fade-left" className="bg-[url('/images/photo7.jpg')] bg-no-repeat bg-cover w-[290px] h-[350px] md:w-[600] md:h-[200px] lg:w-[600] lg:h-[400px] shadow-xl"></div>
+              <div
+                data-aos="fade-left"
+                className="bg-[url('/images/photo7.jpg')] bg-no-repeat bg-cover w-[290px] h-[350px] md:w-[600] md:h-[200px] lg:w-[600] lg:h-[400px] shadow-xl"
+              ></div>
             </div>
             <div className="w-full h-full pt-10">
               <div className="w-full h-1/3 flex flex-col justify-center items-center md:flex-row ">
-                <div data-aos="fade-right" className="bg-[url('/images/photo8.jpg')] bg-no-repeat bg-cover w-[290px] h-[350px] md:w-[400] md:h-[200px] lg:w-[700] lg:h-[400px] shadow-xl"></div>
+                <div
+                  data-aos="fade-right"
+                  className="bg-[url('/images/photo8.jpg')] bg-no-repeat bg-cover w-[290px] h-[350px] md:w-[400] md:h-[200px] lg:w-[700] lg:h-[400px] shadow-xl"
+                ></div>
                 <div
                   data-aos="fade-left"
                   className="w-64 md:w-72 h-52 contain6 flex flex-col items-center justify-around relative max-sm:-left-9 max-sm:bottom-10 md:right-6 md:bottom-7 lg:w-80 lg:h-96"

@@ -12,7 +12,7 @@ module.exports = {
       blue1: "#9ED0F7",
       blue2: "#4B6375",
       blue3: "#428AC2",
-      blue4: "#285475"
+      blue4: "#285475",
     },
     extend: {
       backgroundImage: {

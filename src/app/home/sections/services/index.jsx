@@ -2,8 +2,6 @@ import { BsFillBuildingFill } from "react-icons/bs";
 import Image from "next/image";
 import Link from "next/link";
 
-
-
 const Services = () => {
   return (
     <section className="pb-40 bg-bluelight/50 lg:pb-0 lg:pt-40 lg:h-full">
@@ -77,8 +75,11 @@ const Services = () => {
             </div>
           </div>
         </div>
-        <div className="w-full flex justify-center pt-10">
-          <div className="border border-bluedark h-16 w-32 contain flex items-center text-center contain-v1">
+        <div data-aos="zoom-in" className="w-full flex justify-center py-10">
+          <div
+
+            className="border border-bluedark h-16 w-32 contain flex items-center text-center contain-v1"
+          >
             <Link
               className="text-xs text-blue4 hover:text-bluedark "
               href="/services"
