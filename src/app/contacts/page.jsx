@@ -5,6 +5,7 @@ import { AiFillLinkedin } from "react-icons/ai";
 import { BiLogoInstagramAlt } from "react-icons/bi";
 import { BsDiscord } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
+import Footer from "../components/layouts/footer";
 
 const Contact = () => {
   return (
@@ -95,7 +96,7 @@ const Contact = () => {
           </div>
           <div
             data-aos="fade-right"
-            className="contain7 w-[290px] h-[500px] flex justify-center items-center"
+            className="contain7 w-[290px] h-[500px] flex justify-center items-center mb-10 lg:mb-0"
           >
             <div data-aos="fade-up" className="contain8 w-[260px] h-[450px]">
               <div
@@ -252,8 +253,8 @@ const Contact = () => {
             </div>
           </div>
         </div>
-        <div></div>
       </section>
+      <Footer />
     </>
   );
 };
