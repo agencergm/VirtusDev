@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 const Card2 = ({ className, children}) => {
   return (
     <>
-      <div  className={` contain border-8 border-black  ${className}`}
+      <div  className={` contain  ${className}`}
     >
        {children}
       </div>
