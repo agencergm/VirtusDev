@@ -19,7 +19,7 @@ const FooterDesktop = () => {
           </div>
           <div className="lg:text-xl lg:text-black lg:text-left lg:flex lg:flex-col lg:items-center lg:justify-center">
             <ul>
-              <li>Acceuil</li>
+              <li>Accueil</li>
               <li className="lg:py-1">Entreprise</li>
               <li>Services</li>
               <li className="lg:py-1">Tarifs</li>

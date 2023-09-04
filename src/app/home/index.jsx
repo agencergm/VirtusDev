@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-import Entreprise from "./entreprise";
-import Contact from "./contact";
-
-const Home = () => {
-  return (
-    <>
-      <Entreprise />
-      <Contact />
-=======
 "use client";
 import Services from "./sections/services";
 import AOS from "aos";
@@ -28,13 +18,8 @@ const Main = () => {
       <Services />
       <Pricepage />
       <ContactSection />
->>>>>>> af29aff578099f56950f586f3dacbf356c5ff693
     </>
   );
 };
 
-<<<<<<< HEAD
-export default Home;
-=======
 export default Main;
->>>>>>> af29aff578099f56950f586f3dacbf356c5ff693
