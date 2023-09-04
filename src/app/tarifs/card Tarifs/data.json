@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "className":"contain",
+    "image": "/images/VirtusDev-Bleu.png",
+    "alt": "Logo-VirtusDev",
+    "titre": "Offre n°1",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description4": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
+  },
+
+  {
+    "id": 2,
+    "className":"bg-[url('/images/photo9.jpeg')] bg-cover bg-no-repeat",
+    "image": "/images/VirtusDev-Bleu.png",
+    "alt": "Logo-VirtusDev",
+    "titre": "Offre n°2",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description4": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
+  },
+  {
+    "id": 3,
+    "className":"bg-[url('/images/ice.webp')] bg-right bg-cover bg-no-repeat",
+    "image": "/images/VirtusDev-Bleu.png",
+    "alt": "Logo-VirtusDev",
+    "titre": "Offre n°3",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur",
+    "description2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description3": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur",
+    "description4": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.Lorem ipsum dolor sit amet consectetur elit.Lorem ipsum dolor sit amet consecteturelit.Lorem ipsum dolor sit amet consectetur"
+  }
+]
